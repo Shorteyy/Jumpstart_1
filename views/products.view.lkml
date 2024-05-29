@@ -46,7 +46,7 @@ view: products {
   }
   measure:  total_cost{
     type: sum
-    sql: ${TABLE}.cost ;;
+    sql: ${cost} ;;
   }
 
   # ----- Sets of fields for drilling ------
