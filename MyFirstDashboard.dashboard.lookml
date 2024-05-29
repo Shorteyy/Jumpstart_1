@@ -1,5 +1,5 @@
 ---
-- dashboard: test
+- dashboard: MyFirstDashboard
   title: test
   layout: newspaper
   preferred_viewer: dashboards-next
